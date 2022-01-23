@@ -1,0 +1,17 @@
+README
+Members:
+Yuran Fang
+Yue Jiao
+Zeqian Min
+
+Contribution:
+Yuran Fang:
+Wrote all the syscalls handlers, read/write virtual memory, and user kernel.
+Tested the given test cases in three different tasks and other test cases provided by Yue Jiao.
+The the test cases provdided and written works.
+
+Yue Jiao:
+I did pair programming with Yuran in syscall handlers and read/write virtual memory, and user kernel, and I wrote some other test cases.
+
+Zeqian Min:
+Helped in the implementation of syscalls in task3 and fix bugs.
